@@ -1,1 +1,4 @@
-torchvision
+pytorch_lightning
+wandb
+matplotlib
+numpy
