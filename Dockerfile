@@ -1,7 +1,4 @@
-# Use the official image as a parent image.
-#FROM nvidia/cuda:11.1-devel-ubuntu20.04
 FROM nvcr.io/nvidia/pytorch:20.03-py3
-#FROM pytorch/pytorch:1.6.0-cuda10.1-cudnn7-devel
 
 # Set the working directory.
 WORKDIR /usr/src/app
